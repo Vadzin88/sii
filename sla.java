@@ -1,5 +1,7 @@
-import javax.swing.*;
-import java.awt.*;
+import java.awt.Color;
+import java.awt.Graphics;
+
+import javax.swing.JFrame;
 
 class Main extends JFrame{
   public static void main(String[] args) {
